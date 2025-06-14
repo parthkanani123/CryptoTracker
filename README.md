@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/68ec4c18-b4ba-4bd9-97b3-3f68647f73b7
 <img width="395" alt="Screenshot 2024-07-19 at 8 15 18 PM" src="https://github.com/user-attachments/assets/ba6d8fb3-1865-4cff-b14f-b7bb920e051a">
 <img width="395" alt="Screenshot 2024-07-19 at 8 14 19 PM" src="https://github.com/user-attachments/assets/57763bc7-db90-4a3a-ae43-9b1dcc9e164b">
 
-➤ Used combine - publishers and subcribers to efficently handle 3 API calls and to sort and filter coin data
-➤ Utilized Core Data to ensure reliable data persistence and manage user’s portfolio & Implemented a local file manager to cache images
-➤ Developed a chart to track and display the price of a coin over the past 7 days & provided detail of coin
-➤ Tech Stack Used : Swift, SwiftUI, Xcode, Core Data, Combine, MVVM
+➤ Used combine - publishers and subcribers to efficently handle 3 API calls and to sort and filter coin data<br>
+➤ Utilized Core Data to ensure reliable data persistence and manage user’s portfolio & Implemented a local file manager to cache images<br>
+➤ Developed a chart to track and display the price of a coin over the past 7 days & provided detail of coin<br>
+➤ Tech Stack Used : Swift, SwiftUI, Xcode, Core Data, Combine, MVVM<br>
